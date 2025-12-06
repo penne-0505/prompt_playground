@@ -1,3 +1,5 @@
+<!-- 前提条件に間違いがある、または論理的に矛盾しているタスク。矛盾を見抜き、適切に対応する能力が求められる -->
+
 Date,Product_ID,Product_Name,Category,Unit_Price,Quantity,Sales_Amount
 2025-11-01,P001,Quantum Toaster,Home Appliances,12000,5,60000
 2025-11-02,P002,Hyper Blender,Home Appliances,8500,2,17000
