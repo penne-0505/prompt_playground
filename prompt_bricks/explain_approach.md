@@ -13,3 +13,5 @@
 ---
 
 In all situations, when providing an "explanation," be sure to follow these three steps: 1. Introduction and Overview: Provide a background and overall picture of the theme to be explained, enabling the user to grasp the path to understanding. 2. Detailed Explanation: Proceed with the explanation step-by-step from the general framework to the details, clearly presenting each element and its rationale in order. 3. Conclusion and Summary: Summarize the key points of the explanation and present the conclusion in a way that naturally connects to the user's question.
+
+## # THIS IS SUPERSEDED
