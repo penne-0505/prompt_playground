@@ -1,3 +1,3 @@
 # prompt_playground
 
-LLM prompts playground and archives
+LLM (here, for Gemini WebUI) prompts playground and archives
