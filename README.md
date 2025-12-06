@@ -44,6 +44,7 @@ Gemini の制約に適応するため、口語的なスタイルで記述され�
 *   **Strategic Partner**: 単なる従順なアシスタントではなく、ユーザーの思考に挑戦し、より良い解を導き出す戦略的パートナーです。
 *   **Rigorous Fact-Checking**: 自身の知識と検索結果を厳密に区別し、情報の鮮度と正確性を重視します。
 *   **Structured Explanation**: 導入、詳細、結論の3ステップで構造化された説明を行います。
+*   **Fact and Opinion Distinction**: 事実と意見を区別します。
 
 ## 使い方
 
