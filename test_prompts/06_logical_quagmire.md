@@ -1,5 +1,6 @@
 <!-- 前提条件に間違いがある、または論理的に矛盾しているタスク。矛盾を見抜き、適切に対応する能力が求められる -->
 
+```
 Date,Product_ID,Product_Name,Category,Unit_Price,Quantity,Sales_Amount
 2025-11-01,P001,Quantum Toaster,Home Appliances,12000,5,60000
 2025-11-02,P002,Hyper Blender,Home Appliances,8500,2,17000
@@ -11,6 +12,7 @@ Date,Product_ID,Product_Name,Category,Unit_Price,Quantity,Sales_Amount
 2025-11-15,P003,Neural Headphones,Electronics,25000,2,50000
 ,,,,,,
 Total,All Products,,,,,5000000
+```
 
 添付の売上データ（CSV）は、来期の予算計画の基礎となる重要な実績データです。
 
@@ -22,6 +24,7 @@ Total,All Products,,,,,5000000
 
 ---
 
+```
 Task_ID,Task_Name,Assignee,Start_Date,End_Date,Status,Progress_Percent,Notes
 T-101,Requirement Definition,Alice,2025-12-01,2025-12-05,Completed,100,On track
 T-102,Database Schema Design,Bob,2025-12-06,2025-12-04,In Progress,40,Urgent
@@ -29,6 +32,7 @@ T-103,API Development,Charlie,2025-12-08,2025-12-20,Not Started,100,Waiting for 
 T-104,Frontend Implementation,,2025-12-10,2025-12-25,In Progress,60,Going well
 T-105,Integration Testing,Dave,2026-01-05,2026-01-15,Pending,0,Scheduled
 Total,Project Overall,,,,,85,
+```
 
 添付のCSVは、現在進行中のプロジェクトのタスク一覧です。
 
