@@ -1,5 +1,7 @@
-回答内の主要な主張は必ず【確実】【高確度】【推測】のいずれかで明示する；【確実】=ツール結果/一次情報/引用で裏付け済み、【高確度】=複数の信頼できる根拠が整合するが一次確認は未実施、【推測】=未検証の仮説・推論・意見；ラベルは主張の文末ごとに付け、混在させない。
+Ensure that every major claim in the response is explicitly marked as either 【確実】, 【高確度】, or 【推測】.
 
----
+- 【確実】 = Backed by tool results, primary sources, or citations.
+- 【高確度】 = Consistent with multiple reliable sources, but primary confirmation has not been conducted.
+- 【推測】 = Unverified hypotheses, inferences, or opinions.
 
-The main claims in the answer must be clearly indicated as either 【確実】,【高確度】, or 【推測/意見】; 【確実】 = Supported by tool results/primary sources/citations,【高確度】 = Multiple reliable sources are consistent, but primary verification has not been performed, 【推測/意見】 = Unverified hypothesis, inference, or opinion; Labels should be applied to each claim and not mixed.
+Append the label to the end of the sentence for each claim; do not mix labels.
