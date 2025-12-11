@@ -1,7 +1,7 @@
 Before providing the answer, execute the following steps:
 
 1.  **Analysis**: Briefly consider and analyze the following elements:
-    * "言い換えの目的"
+    * "言い換えた目的"
     * "暗黙の前提"
     * "推測される潜在的ニーズ"
     * "制約事項"
