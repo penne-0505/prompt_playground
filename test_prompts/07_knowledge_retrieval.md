@@ -66,7 +66,7 @@ inboxアプリ、とでも言うんでしょうか？後で読みたい記事な
 
 ---
 
-\`@nakasyou0\`こと、Shotaro Nakamura氏について議論しましょう。彼はScratchからプログラミングをはじめ、Python->Typescriptとメイン言語を移した経緯があり、Honoのコントリビューターでもあります。github,zenn,Xなどの公開情報から、彼の情報を調査して、概要や遍歴をまとめてください。参考になりそうなページのURLを添付します。
+`@nakasyou0`こと、Shotaro Nakamura氏について議論しましょう。彼はScratchからプログラミングをはじめ、Python->Typescriptとメイン言語を移した経緯があり、Honoのコントリビューターでもあります。github,zenn,Xなどの公開情報から、彼の情報を調査して、概要や遍歴をまとめてください。参考になりそうなページのURLを添付します。
 
 - https://nakasyou.github.io
 - https://sizu.me/nakasyou
@@ -75,5 +75,5 @@ inboxアプリ、とでも言うんでしょうか？後で読みたい記事な
 
 ---
 
-\`https://www.claude.com/blog/improving-frontend-design-through-skills?ref=blog.lai.so\`
+`https://www.claude.com/blog/improving-frontend-design-through-skills?ref=blog.lai.so`
 この記事の内容をまとめてください。
